@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @jayupdate
+- 👋 Hi, I’m ju
 - 👀 I’m interested in the future
-- 🌱 I’m currently learning python & Blockchain
+- 🌱 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Jayupdate@icloud.com
-- 😄 Pronouns: him
-- ⚡ Fun fact: wateris lifeee
+- 📫 How to reach me -- Dollris@kakao.com
+- 😄 
+- ⚡ Fun fact: water is lifeee
 
 <!---
 jayupdate/jayupdate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
