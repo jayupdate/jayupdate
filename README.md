@@ -1,8 +1,8 @@
-- 👋 Hi, I’m ju
+- 👋 Hi, I’m kay
 - 👀 I’m interested in the future
 - 🌱 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me -- Dollris@kakao.com
+- 📫 How to reach me 
 - 😄 
 - ⚡ Fun fact: water is lifeee
 
